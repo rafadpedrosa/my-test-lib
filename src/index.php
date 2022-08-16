@@ -1,6 +1,6 @@
 <?php
 
-namespace rafadpedrosa;
+namespace Rafadpedrosa\MyTestLib;
 
 
 class Test {
