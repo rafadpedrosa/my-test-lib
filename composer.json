@@ -1,0 +1,18 @@
+{
+    "name": "rafadpedrosa/my-test-lib",
+    "description": "It is a poc lib to proove that it's possible to test some feature locally",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rafadpedrosa\\MyTestLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rafadpedrosa",
+            "email": "rafadpedrosa@gmail.com"
+        }
+    ],
+    "require": {}
+}
