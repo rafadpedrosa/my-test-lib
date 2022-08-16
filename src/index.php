@@ -3,7 +3,7 @@
 namespace Rafadpedrosa\MyTestLib;
 
 
-class Test {
+class index {
     public function execute() {
         echo "method executed";
         return "success";
